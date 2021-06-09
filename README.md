@@ -1,4 +1,5 @@
 # Spelling Correction with Python
+
 In machine learning, spelling correction and spell checking is a well-known and well-studied problem in natural language processing. This will let you learn about a very basic machine learning project on spelling correction with Python programming language.
 
 Correcting spelling mistakes is an integral part of writing in the modern world, whether it is part of texting a phone, sending an email, writing large documents or searching for information on the web.
